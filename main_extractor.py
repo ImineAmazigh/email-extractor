@@ -33,7 +33,7 @@ def get_text_to_extract() :
 RUN_BUTTON= ctk.CTkButton(root,text="Extract It",hover=True,height=70, width=200,font=("Normal",20),command=get_text_to_extract)
 RUN_BUTTON.pack(padx=10,pady=10)
 
-output_emails_sec = ctk.CTkTextbox(root,height=200,width=750,font=("Normal",15),)
+output_emails_sec = ctk.CTkTextbox(root,height=200,width=750,font=("Normal",15))
 output_emails_sec.pack()
 
 
