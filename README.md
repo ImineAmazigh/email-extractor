@@ -2,6 +2,8 @@
 ## 🖥️ GUI Email Extractor on Terminal using Python, CustomTkinter, Regex
 a tool that extract emails from long essays, long texts...
 
+<img width="1001" height="912" alt="Email-Extractor-GUI-1" src="https://github.com/user-attachments/assets/b29972d8-2bc3-4ce9-8ca1-3179ed1f3ca6" />
+
 just C+CRTL and V+CTRL and you're done, click the extract button and get your emails
 ### 1- Clone the Repository:
 ```
